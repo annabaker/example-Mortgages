@@ -1,0 +1,6 @@
+package mortgages.mortgages;
+
+rule GitHubSyncTest
+when //conditions
+then //actions
+end
